@@ -1,5 +1,0 @@
-self testing 
-for 
-commiting &
-pushing
-testing
